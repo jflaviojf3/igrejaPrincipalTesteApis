@@ -1,0 +1,64 @@
+{
+    "aniversario": {
+        "nomeAniversariante": "Jesse Lima",
+        "data": "1996-07-18",
+        "sexo": 1
+    },
+    "anotacoes": {
+        "anotacao": "Teste de Anotacao Realizado no Feriado 12/10/2022 - 22:31",
+        "idUsuario": "123456"
+    },
+    "campanhas":{
+        "titulo": "Teste Automatizado na Campanha",
+        "horarioInicio": "14:55",
+        "horarioTermino": "23:31",
+        "dataInicio": "12/10/2022",
+        "dataFinal": "13/10/2022",
+        "dia": "Quarta-feira,Quinta-feira",
+        "descricao": "Realizando os teste automatizados na api do sistema Gen7 - APP",
+        "urlImagem": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+        "adicional": "Finalizando os testes no dia seguinte"
+      },
+      "canais": {
+          "idCanal": "https://www.youtube.com/channel/UCh84012dEUE076wM2CVFN9A",
+          "nome": "Erick Wendel"
+      },
+      "categorias": {
+        "nome": "Cat1",
+        "slug": "Miau2",
+        "date": "2022-12-10T00:00:00.000Z"
+      },
+      "cultos": {
+        "titulo": "Culto do dia de Hoje",
+        "horarioInicio": "14:55",
+        "horarioTermino": "23:31",
+        "dia": "Quarta-feira",
+        "descricao": "Realizando os teste automatizados na api do sistema Gen7 - APP",
+        "urlImagem": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+        "adicional": "Finalizando os testes no dia seguinte"
+      },
+      "ensaios": {
+        "titulo": "Ensaio do Culto do dia de Hoje",
+        "horarioInicio": "14:55",
+        "horarioTermino": "23:31",
+        "dia": "Quarta-feira",
+        "descricao": "Realizando os teste automatizados na api do sistema Gen7 - APP",
+        "urlImagem": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+        "adicional": "Finalizando os testes no dia seguinte"
+      },
+      "eventos": {
+        "titulo": "Ensaio do Culto do dia de Hoje",
+        "horarioInicio": "14:55",
+        "horarioTermino": "23:31",
+        "tipo": "Evento Tecnico de Teste Automatizado",
+        "local": "Marambaia",
+        "dataInicio": "12/10/2022",
+        "dataFinal": "13/10/2022",
+        "dia": "Quarta-feira",
+        "descricao": "Realizando os teste automatizados na api do sistema Gen7 - APP",
+        "urlImagem": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png",
+        "adicional": "Finalizando os testes no dia seguinte"
+      }
+      
+
+}
